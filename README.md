@@ -37,7 +37,7 @@ The full pipeline covers:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 - Visualized churn distribution using count plots
 - Plotted histograms and boxplots for numerical features (tenure, MonthlyCharges, TotalCharges) by churn status
@@ -53,7 +53,7 @@ The full pipeline covers:
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 | Step | Detail |
 |---|---|
@@ -109,7 +109,7 @@ TelecomChurnMl/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -167,6 +167,3 @@ Or open directly in Google Colab using the badge at the top.
 ---
 
 
-## 📄 License
-
-This project was developed as academic coursework for CM2604 Machine Learning at RGU.
